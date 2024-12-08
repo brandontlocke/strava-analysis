@@ -1,0 +1,10 @@
+
+{
+    "credentials": {
+        "client_id" : "CLIENT ID",
+        "client_secret" : "CLIENT SECRET",
+        "refresh_token" : "REFRESH TOKEN",
+        "map_center" : [12.345, -124.45],
+        "map_zoom" : "14.5"
+    }
+}
