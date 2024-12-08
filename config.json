@@ -4,7 +4,9 @@
         "client_id" : "CLIENT ID",
         "client_secret" : "CLIENT SECRET",
         "refresh_token" : "REFRESH TOKEN",
-        "map_center" : [12.345, -124.45],
-        "map_zoom" : "14.5"
+        "walkmap_center" : [12.345, -124.45],
+        "walkmap_zoom" : "14.5"
+        "ridemap_center" : [12.345, -124.45],
+        "ridemap_zoom" : "10"
     }
 }
